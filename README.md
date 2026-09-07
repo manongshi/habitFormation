@@ -157,12 +157,6 @@ Habit_Formation/
 └── README.md
 ```
 
-## 🔐 安全说明
-
-- 请从 `.env.example` 复制本地 `.env`。
-- 不要将数据库密码、AI API Key、SMTP 授权码或 COS Secret 提交到 Git。
-- 项目的 `.gitignore` 已默认排除真实环境文件、私钥、本地依赖、日志和缓存。
-
 ---
 
 <div align="center">
