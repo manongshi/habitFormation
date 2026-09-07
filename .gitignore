@@ -1,0 +1,40 @@
+.DS_Store
+.idea/
+.vscode/
+AGENTS.md
+**/AGENTS.md
+*.log
+logs/
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.vite/
+coverage/
+
+# Environment
+.env
+*.env.local
+*.env.*.local
+backend/.env
+frontend/.env
+
+# Credentials and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
