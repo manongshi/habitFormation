@@ -14,12 +14,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/manongshi/habitFormation?style=flat-square&logo=github)](https://github.com/manongshi/habitFormation/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/manongshi/habitFormation?style=flat-square&logo=git)](https://github.com/manongshi/habitFormation/commits/main)
 
-<img src="docs/assets/readme-hero.png" alt="AI 考证教练项目横幅" width="100%" />
+<img src="docs/assets/readme-hero.png" alt="AI 考证教练项目横幅" width="78%" />
 
 **AI 考证教练**是一款面向职业资格考试的智能学习平台。  
 选择目标证书，填写考试日期和可用时间，让 AI 生成分钟级备考计划。
-
-[**快速开始**](#-快速开始) · [**主要功能**](#-主要功能) · [**项目结构**](#-项目结构) · [**API 文档**](http://localhost:8000/docs)
 
 </div>
 
